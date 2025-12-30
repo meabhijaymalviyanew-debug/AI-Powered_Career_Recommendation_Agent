@@ -56,8 +56,10 @@ Copy code
 ---
 
 ## Project Structure
-├── notebook.ipynb / notebook.py
+├── notebook.ipynb
+
 ├── README.md
+
 ├── requirements.txt
 
 yaml
