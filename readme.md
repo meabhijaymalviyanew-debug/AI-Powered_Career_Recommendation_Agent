@@ -75,7 +75,7 @@ This role-based design improves scalability, explainability, and maintainability
 
 ---
 
-## 🤖 How It Works
+## How It Works
 1. Job role descriptions are converted into **semantic embeddings** using a pretrained transformer model.
 2. Resume text is encoded into a semantic embedding.
 3. **Cosine similarity** is computed between resume and role embeddings.
